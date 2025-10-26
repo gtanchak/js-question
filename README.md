@@ -12,7 +12,20 @@
 
 ---
 
-###### 1. What's the output?
+###### 1. What's the index of specific character?
+
+```javascript
+"BOOMIN".indexOf("M");
+```
+
+- A: 2
+- B: 3
+- C: `null`
+- D: `undefined`
+
+---
+
+###### 2. What's the output?
 
 ```javascript
 let friendsAtParty = 20;
@@ -26,5 +39,3 @@ console.log(friendsAtParty);
 - B: false
 - C: Infinite
 - D: `undefined`
-
----
