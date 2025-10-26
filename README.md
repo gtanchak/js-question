@@ -21,7 +21,7 @@
 - A: 2
 - B: 1
 - C: 3
-- D: `undefined`
+- D: -1
 
 ---
 
@@ -39,3 +39,16 @@ console.log(friendsAtParty);
 - B: false
 - C: Infinite
 - D: `undefined`
+
+###### 3. What's the output?
+
+```javascript
+"BOOMIN".indexOf("o");
+```
+
+- A: 2
+- B: 1
+- C: 3
+- D: -1
+
+---
