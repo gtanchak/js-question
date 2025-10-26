@@ -15,12 +15,12 @@
 ###### 1. What's the index of specific character?
 
 ```javascript
-"BOOMIN".indexOf("M");
+"BOOMIN".indexOf("O");
 ```
 
 - A: 2
-- B: 3
-- C: `null`
+- B: 1
+- C: 3
 - D: `undefined`
 
 ---
