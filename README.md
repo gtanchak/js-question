@@ -40,6 +40,8 @@ console.log(friendsAtParty);
 - C: Infinite
 - D: `undefined`
 
+---
+
 ###### 3. What's the output?
 
 ```javascript
