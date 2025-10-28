@@ -52,5 +52,3 @@ console.log(friendsAtParty);
 - B: 1
 - C: 3
 - D: -1
-
----
