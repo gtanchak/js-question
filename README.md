@@ -52,3 +52,16 @@ console.log(friendsAtParty);
 - B: 1
 - C: 3
 - D: -1
+
+---
+
+###### 3. What's the output?
+
+```javascript
+let answerToLife = 4 + 1 * 2 * 4 + 2;
+```
+
+- A: 42
+- B: 14
+- C: 16
+- D: 40
