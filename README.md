@@ -55,7 +55,7 @@ console.log(friendsAtParty);
 
 ---
 
-###### 3. What's the output?
+###### 4. What's the output?
 
 ```javascript
 let answerToLife = 4 + 1 * 2 * 4 + 2;
