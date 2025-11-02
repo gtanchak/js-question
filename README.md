@@ -45,7 +45,7 @@ console.log(friendsAtParty);
 ###### 3. What's the output?
 
 ```javascript
-"BOOMIN".indexOf("o");
+"BOOMIN".indexOf("o"); // Here `o` is small.
 ```
 
 - A: 2
@@ -76,10 +76,10 @@ let boomin = [100, 50, 2].sort();
 console.log(boomin);
 ```
 
-- A: [2, 50, 100]
-- B: [100, 50, 2]
-- C: [100, 2, 50]
-- D: [2, 100, 50]
+- A: `[2, 50, 100]`
+- B: `[100, 50, 2]`
+- C: `[100, 2, 50]`
+- D: `[2, 100, 50]`
 
 ---
 
@@ -95,3 +95,18 @@ console.log(abc);
 - B: "abc"
 - C: "adc"
 - D: `error`
+
+---
+
+###### 6. What's the output?
+
+```javascript
+let boomin = [1, 2, 3];
+result = boomin.concat(4);
+console.log(boomin);
+```
+
+- A: `[1,2,3]`
+- B: `[1,2,3,4]`
+- C: 4
+- D: `[1,2,3,[4]]`
