@@ -59,9 +59,24 @@ console.log(friendsAtParty);
 
 ```javascript
 let answerToLife = 4 + 1 * 2 * 4 + 2;
+console.log(answerToLife);
 ```
 
 - A: 42
 - B: 14
 - C: 16
 - D: 40
+
+---
+
+###### 5. What's the output?
+
+```javascript
+let boomin = [100, 50, 2].sort();
+console.log(boomin);
+```
+
+- A: [2, 50, 100]
+- B: [100, 50, 2]
+- C: [100, 2, 50]
+- D: [2, 100, 50]
