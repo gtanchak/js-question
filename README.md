@@ -35,8 +35,8 @@ while (friendsAtParty > 10) {
 console.log(friendsAtParty);
 ```
 
-- A: true
-- B: false
+- A: `true`
+- B: `false`
 - C: Infinite
 - D: `undefined`
 
