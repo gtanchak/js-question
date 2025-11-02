@@ -98,7 +98,7 @@ console.log(abc);
 
 ---
 
-###### 6. What's the output?
+###### 7. What's the output?
 
 ```javascript
 let boomin = [1, 2, 3];
