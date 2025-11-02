@@ -80,3 +80,18 @@ console.log(boomin);
 - B: [100, 50, 2]
 - C: [100, 2, 50]
 - D: [2, 100, 50]
+
+---
+
+###### 6. What's the output?
+
+```javascript
+let abc = "abc";
+abc[1] = "d";
+console.log(abc);
+```
+
+- A: "d"
+- B: "abc"
+- C: "adc"
+- D: `error`
