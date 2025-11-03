@@ -113,7 +113,7 @@ console.log(boomin);
 
 ---
 
-###### 7. Which one is a non-primitive data type?
+###### 8. Which one is a non-primitive data type?
 
 - A: `boolean`
 - B: `Array`
