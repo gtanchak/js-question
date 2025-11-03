@@ -110,3 +110,12 @@ console.log(boomin);
 - B: `[1,2,3,4]`
 - C: 4
 - D: `[1,2,3,[4]]`
+
+---
+
+###### 7. Which one is a non-primitive data type?
+
+- A: `boolean`
+- B: `Array`
+- C: `String`
+- D: `Number`
