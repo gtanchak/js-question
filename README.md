@@ -37,7 +37,7 @@ console.log(friendsAtParty);
 
 - A: `true`
 - B: `false`
-- C: Infinite
+- C: `Infinite`
 - D: `undefined`
 
 ---
