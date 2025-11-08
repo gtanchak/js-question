@@ -119,3 +119,20 @@ console.log(boomin);
 - B: `Array`
 - C: `String`
 - D: `Number`
+
+---
+
+###### 9. What's the output?
+
+```javascript
+function getAge(...args) {
+  console.log(typeof args);
+}
+
+getAge(21);
+```
+
+- A: `"number"`
+- B: `"array"`
+- C: `"object"`
+- D: `"NaN"`
