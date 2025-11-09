@@ -136,3 +136,10 @@ getAge(21);
 - B: `"array"`
 - C: `"object"`
 - D: `"NaN"`
+
+---
+
+###### 9. String in Javascript are editable value?
+
+- A: `true`
+- B: `false`
