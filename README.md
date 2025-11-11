@@ -139,7 +139,22 @@ getAge(21);
 
 ---
 
-###### 9. String in Javascript are editable value?
+###### 10. String in Javascript are editable value?
 
 - A: `true`
 - B: `false`
+
+---
+
+###### 11. What's the output?
+
+```javascript
+function doesThisWork("Boomin") {
+  return true
+}
+```
+
+- A: `true`
+- B: `undefined`
+- C: `error`
+- D: `false`
