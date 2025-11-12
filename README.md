@@ -152,9 +152,10 @@ getAge(21);
 function doesThisWork("Boomin") {
   return true
 }
+
 ```
 
 - A: `true`
 - B: `undefined`
-- C: `error`
+- C: `SyntaxError`
 - D: `false`
